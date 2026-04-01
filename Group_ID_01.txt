@@ -1,0 +1,48 @@
+Member Contribution  - IT4060 - Machine Learning - Assignment
+===================================================================================
+
+1. Logistic Regression 
+
+Student ID: IT22300164
+
+Name:  Ellepola E.W.P.W.M.R.S.K
+
+Email: it22300164@my.sliit.lk
+
+-----------------------------------------------------------------------------------
+2. Naive Bayes
+
+Student ID: IT22590930
+
+Name:  Bandaranayake E.M.T.T
+
+Email: it22590930@my.sliit.lk
+
+-----------------------------------------------------------------------------------
+3. Random Forest
+
+Student ID: IT22099990
+
+Name:  Rupasinghe R. A. R. P.
+
+Email: it22099990@my.sliit.lk
+
+-----------------------------------------------------------------------------------
+4. Decision Tree
+
+Student ID: IT22155184
+
+Name:  Kuruppu K. A. N. H
+
+Email: it22155184@my.sliit.lk
+
+-----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
